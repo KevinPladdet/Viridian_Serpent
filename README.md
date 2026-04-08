@@ -1,6 +1,6 @@
 ## **Viridian Serpent**
 
-Viridian Serpent is a voxel-based ray tracer built on the CPU, featuring a playable 3D Snake game integrated into the renderer. 
+Viridian Serpent is a voxel-based ray tracer built on the CPU, featuring a playable 3D Snake game integrated into the renderer
 
 ![Gameplay Screenshot](screenshots/gameplay_screeenshot.png)
 ---
@@ -24,7 +24,7 @@ Viridian Serpent is a voxel-based ray tracer built on the CPU, featuring a playa
 ---
 
 #### Dependencies: 
-[template](https://github.com/jbikker/voxpopuli) is created and provided by [Jacco Bikker](https://jacco.ompf2.com/) <br>
+Viridian Serpent is built on top of [voxpopuli](https://github.com/jbikker/voxpopuli) and is created and provided by [Jacco Bikker](https://jacco.ompf2.com/) <br>
 imgui can be downloaded [here](https://github.com/ocornut/imgui) <br>
 miniaudio.h can be downloaded [here](https://miniaud.io/) <br>
 ogt_vox.h can be downloaded [here](https://github.com/jpaver/opengametools/blob/master/src/ogt_vox.h)
