@@ -32,4 +32,4 @@ ogt_vox.h can be downloaded [here](https://github.com/jpaver/opengametools/blob/
 ---
 
 #### Credits:
-Project could not have been made possible without Jacco Bikker's Blog Series: <br> ["Ray Tracing with Voxels in C++"](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1/)
+Project could not have been made possible without Jacco Bikker's Blog Series: <br> [Ray Tracing with Voxels in C++](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1/)
